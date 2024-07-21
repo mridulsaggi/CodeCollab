@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+body{
+  height: 100%;
+  width:100%;
+  color:aliceblue;
+  background-color: rgb(30, 22, 60);
+}
